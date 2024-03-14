@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    color: rgb(77, 18, 206);
+}
+
+html,
+div button {
+    color: greenyellow;
+}
+
+html,
+p {
+    color: teal;
+    font-size: small;
+}
+
+html, 
+h2 {
+    color-scheme: rgb(0, 221, 255);
+}
